@@ -1,0 +1,99 @@
+﻿<Page x:Class="Notes_Program.PageBased.AuthPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Notes_Program.PageBased"
+      mc:Ignorable="d" 
+      d:DesignHeight="425" d:DesignWidth="350"
+      Title="AuthPage">
+
+    <Grid>
+        
+        <!--Разделение контейнера страницы на строки-->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="Авторизация"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Center"
+               FontSize="30"
+               FontWeight="Bold"
+               Foreground="#FF3AA3DC"
+               Grid.Row="0"/>
+
+        <!--Ввод логина-->
+        <Label Content="Логин"
+               HorizontalAlignment="Left"
+               VerticalAlignment="Center"
+               FontSize="14"
+               FontWeight="Bold"
+               Foreground="#FF3AA3DC"
+               Grid.Row="1"/>
+        <TextBox Height="40"
+                 FontSize="14"
+                 VerticalContentAlignment="Center"
+                 Background="Transparent"
+                 BorderBrush="#FF3AA3DC"
+                 Grid.Row="2"
+                 x:Name="TxbLogin"/>
+
+        <!--Ввод пароля-->
+        <Label Content="Пароль"
+               HorizontalAlignment="Left"
+               VerticalAlignment="Center"
+               FontSize="14"
+               FontWeight="Bold"
+               Foreground="#FF3AA3DC"
+               Grid.Row="3"/>
+        <PasswordBox Height="40"
+                     FontSize="14"
+                     VerticalContentAlignment="Center"
+                     Background="Transparent"
+                     BorderBrush="#FF3AA3DC"
+                     Grid.Row="4"
+                     x:Name="TxbPassword"/>
+        
+        <!--Кнопка авторизации-->
+        <Button Content="Войти"
+                Background="#FF3AA3DC"
+                Foreground="White"
+                BorderThickness="0"
+                FontSize="15"
+                FontWeight="Bold"
+                Grid.Row="6"
+                Click="Click_Auth">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="8"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+
+        <!--Кнопка авторизации-->
+        <Button Content="Регистрация"
+                Background="Transparent"
+                Foreground="#FF3AA3DC"
+                BorderBrush="#FF3AA3DC"
+                FontSize="15"
+                FontWeight="Bold"
+                Grid.Row="8"
+                Click="Click_Reg">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="8"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+    </Grid>
+</Page>

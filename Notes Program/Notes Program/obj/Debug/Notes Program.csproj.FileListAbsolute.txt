@@ -1,0 +1,28 @@
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\bin\Debug\Notes Program.exe.config
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\bin\Debug\Notes Program.exe
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\bin\Debug\Notes Program.pdb
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\obj\Debug\Notes Program.csproj.AssemblyReference.cache
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\obj\Debug\App.g.cs
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\obj\Debug\Notes Program_MarkupCompile.cache
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\obj\Debug\Notes Program_MarkupCompile.lref
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\obj\Debug\Notes Program.g.resources
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\obj\Debug\Notes_Program.Properties.Resources.resources
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\obj\Debug\Notes Program.csproj.GenerateResource.cache
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\obj\Debug\Notes Program.csproj.CoreCompileInputs.cache
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\obj\Debug\Notes Program.exe
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\obj\Debug\Notes Program.pdb
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\obj\Debug\PageBased\AuthPage.g.cs
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\obj\Debug\PageBased\RegPage.g.cs
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\obj\Debug\PageBased\AuthPage.baml
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\obj\Debug\PageBased\RegPage.baml
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\bin\Debug\EntityFramework.dll
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\bin\Debug\EntityFramework.xml
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\obj\Debug\Notes Program_Content.g.cs
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\obj\Debug\Notes Pr.58D8478A.Up2Date
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\obj\Debug\BasedWindow\Authorization.g.cs
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\obj\Debug\BasedWindow\NotesWindow.g.cs
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\obj\Debug\BasedWindow\Authorization.baml
+C:\Users\papka\Desktop\Task 1(Notes)\Notes Program\Notes Program\obj\Debug\BasedWindow\NotesWindow.baml

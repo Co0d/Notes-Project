@@ -1,0 +1,1 @@
+This repository contains program files, databases, a data dictionary, and other files for the note project.
